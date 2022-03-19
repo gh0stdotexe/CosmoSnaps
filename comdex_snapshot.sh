@@ -1,7 +1,7 @@
 #!/bin/bash
 CHAIN_ID="comdex-1"
-SNAP_PATH="$HOME/snapshots/comdex"
-LOG_PATH="$HOME/snapshots/comdex/comdex_log.txt"
+SNAP_PATH="$HOME/site-content/snapshots/comdex"
+LOG_PATH="$HOME/site-content/snapshots/comdex/comdex_log.txt"
 DATA_PATH="$HOME/.comdex/data/"
 SERVICE_NAME="cosmovisor"
 RPC_ADDRESS="http://localhost:26657"
